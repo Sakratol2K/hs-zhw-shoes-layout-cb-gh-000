@@ -114,6 +114,26 @@ iframe {
 	box-shadow: 0 3px 10px #333;
 }
 
+.shadow_deals{
+	float:left;
+	width: 32.6%;
+	margin-top:10px;
+}
+
+.shadow_left{
+	float:left;
+	width: 66.5%;
+}
+
+.shadow_right{
+	float:right;
+	width: 33%;
+	min-height: 597px;
+}
+.middle{
+	margin-left: 10px;
+	margin-right: 10px;
+}
 .milk_text {
 	font: bold 42px 'Elsie Swash Caps', cursive;
 	color: white;
@@ -287,6 +307,11 @@ iframe {
 	#details a:hover, #details a:active {
 		text-decoration: underline;
 	}
+
+#details .border_right{
+	width: 33.6%;
+	float:left;
+}	
 
 /********** Footer **********/
 
